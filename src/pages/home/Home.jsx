@@ -176,9 +176,9 @@ const HomePage = () => {
                                 <li><b>Power supply:</b> 12 volts battery or a power supply that outputs 12 volts.</li>
                             </ul>
                             <p>
-                                These equipments are not expensive, they cost about the same of a cell phone.
+                                These equipments are not very expensive, they cost about the same of a cell phone.
                                 But there's a problem with them: they are very hard to sell (practically impossible if you're not a Amateur Radio Operator).
-                                Thus, Amateur Radio Operators are very careful when choosing their equipment.
+                                Thus, Amateur Radio Operators are very careful when choosing/buying their equipment.
                             </p>
                             <p>
                                 The good thing about them is that a Radio from 1950 does the same thing that a new top-of-the-line radio does.&nbsp;
@@ -207,7 +207,7 @@ const HomePage = () => {
                                     Going to a park is a way to avoid high levels of electrical noise.<br/><br/>
                                 </li>
                                 <li>
-                                    <b>POTA:</b>&nbsp;there are some programs create to encourage the practice of the hobby. One is them is the Park On The Air or just POTA.&nbsp;
+                                    <b>POTA:</b>&nbsp;there are some programs created to encourage the practice of the hobby. One is them is the Park On The Air or just POTA.&nbsp;
                                     In this program parks have an ID and the goal is to confirm contact with people transmitting from these parks. There's also SOTA (Summits on the air), IOTA (Islands on the Air) and so on...
                                 </li>
                             </ul>
