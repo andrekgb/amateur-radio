@@ -48,14 +48,14 @@ const HomePage = () => {
                                 amateurs for experimentation and friendly communications.
                             </p>
                             <p>
-                                Every conversation on Amateur Radio frequencies can be hear by anyone anywhere on the planet! No military or espionage around here!
+                                Every conversation on Amateur Radio frequencies can be heard by anyone anywhere on the planet! No military or espionage around here!
                             </p>
                             <p><b>In this page I'll teach you how to listen to it via the internet. Keep reading!</b></p>
 
-                            <p>Below an example of a Amateur Radio contact:</p>
+                            <p>Below an example of a Amateur Radio contact. From Montreal to Israel, close to the Lebanon border:</p>
 
                             <div className={'youtube-container'}>
-                                <iframe src="https://www.youtube.com/embed/b0009QY5X2s"
+                                <iframe src="https://www.youtube.com/embed/MpDwmtWG1Gw"
                                         frameBorder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                         allowFullScreen></iframe>
@@ -99,7 +99,15 @@ const HomePage = () => {
                                         Some people also use decoders, when learning or trying to improve the receiving speed. Decoders are software that transform the sounds into letters, but they&nbsp;
                                         fail a lot when the transmission is made by a human or there is too much noise on the frequency.&nbsp;
                                         Morse Code is an amazing mindfulness practice that helps alleviate anxiety.<br/><br/>
-                                        <a href={'https://youtu.be/iEmcNjtnMec'} target={'_blank'}>Here's an example</a> of a Morse Code conversation.&nbsp;
+
+                                        <div className={'youtube-container'}>
+                                            <iframe src="https://www.youtube.com/embed/iEmcNjtnMec"
+                                                    frameBorder="0"
+                                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                    allowFullScreen></iframe>
+                                        </div>
+                                        <br/>
+                                        Above on example of a Morse Code conversation.&nbsp;
                                         You will realize that the subtitles don't make any sense ... it's because in morse code we uses a lot of abbreviations.
                                         In the video you will see HNY (Happy new year), TU (thank you), 5NN (it's a signal strength measure) and some
                                         other letters we call "callsigns".
@@ -177,7 +185,7 @@ const HomePage = () => {
                             </ul>
                             <p>
                                 These equipments are not very expensive, they cost about the same of a cell phone.
-                                But there's a problem with them: they are very hard to sell (practically impossible if you're not a Amateur Radio Operator).
+                                But there's a problem with them: they are very hard to sell (practically impossible if you're not an Amateur Radio Operator).
                                 Thus, Amateur Radio Operators are very careful when choosing/buying their equipment.
                             </p>
                             <p>
@@ -207,7 +215,7 @@ const HomePage = () => {
                                     Going to a park is a way to avoid high levels of electrical noise.<br/><br/>
                                 </li>
                                 <li>
-                                    <b>POTA:</b>&nbsp;there are some programs created to encourage the practice of the hobby. One is them is the Park On The Air or just POTA.&nbsp;
+                                    <b>POTA:</b>&nbsp;there are some programs created to encourage the practice of the hobby. One of them is the Park On The Air or just POTA.&nbsp;
                                     In this program parks have an ID and the goal is to confirm contact with people transmitting from these parks. There's also SOTA (Summits on the air), IOTA (Islands on the Air) and so on...
                                 </li>
                             </ul>
